@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DileepAmrani
 - 👀 I’m interested in creating websites using 
-- react js, gatsby js, next js, and many more.
+- node js, react js, react native, gatsby js, next js,
+- mongodb, firebase and many more.
 - 🌱 I’m currently learning web3. 
 - 📫 How to reach me:
   1. Email: amranidileep44@gmail.com
