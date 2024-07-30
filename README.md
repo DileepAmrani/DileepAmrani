@@ -1,26 +1,75 @@
-### 👋 Hi, I’m @DileepAmrani
+<div align="center">
 
-- 🌐 Discover my portfolio: [https://amranidileep.netlify.app/](https://amranidileep.netlify.app/)
-- 👀 I’m interested in creating websites.
+![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20i%20am%20Dileep%20Kumar&textBg=false&animation=scaleIn&fontSize=50&section=header&fontAlignY=40)
 
-### Talking about Personal Stuff:
+</div>
 
-- 🌱 I’m currently learning web3. 
-- 📫 How to reach me:
-  1. Email: amranidileep44@gmail.com 
-  3. Fiverr fiver.com/dileep44
+<div align="center">
 
-### Languages and Tools:
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DileepAmrani&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/DileepAmrani/DileepAmrani-widgetbox)
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+[![committers.top badge](https://user-badge.committers.top/pakistan/DileepAmrani.svg)](https://user-badge.committers.top/pakistan/DileepAmrani)
+
+ <img src="https://komarev.com/ghpvc/?username=DileepAmrani&label=Profile%20views&color=0e75b6&style=flat" alt="DileepAmrani" />
+
+</div>
+
+# About Me:
+
+Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pakistan, and I'm excited to share my journey and projects with you. 
+
+- 🌍 **Location:** Pakistan, Karachi.
+- 💻 **Expertise:** MERN Stack, HTML, CSS, Bootstrap, JavaScript, Firebase, React.js, Node.js, Express.js, MongoDB.
+- 🎨 **UI Libraries:** Chakra UI, Tailwind CSS, Material UI, Ant Design.
+
+
+<br />
+
+# My Stats 🔥:
+
+<div style="display: flex; justify-content: center; align-items: start; flex-direction: column;">
+
+  <div>
+
+  ![Dileep's Stats](https://github-readme-stats.vercel.app/api?username=DileepAmrani&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+  </div>
+
+  <div>
+
+  ![Dileep's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DileepAmrani&theme=tokyonight&hide_border=true)
+  
+  </div>
+
+  <div>
+
+  ![Dileep's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DileepAmrani&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+  </div>
+
+  <div>
+
+  ![DileepAmrani's 25 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DileepAmrani&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)
+
+  </div>
+
+</div>
+
+### I post actively on ...
+
+<a href="https://www.linkedin.com/in/dileepamrani/" title="DileepAmrani" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+
+### You can also find me on ...
+
+<a href="mailto:amranidileep44@gmail.com" target="_blank" title="amranidileep44@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+
+<br/>
+
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thanks%20for%20reading%20the%20readme.&textBg=false&animation=scaleIn&fontSize=30&section=footer&fontAlignY=70)
+
+</div>
 
 <!---
 DileepAmrani/DileepAmrani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
