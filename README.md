@@ -19,7 +19,7 @@
 Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pakistan, and I'm excited to share my journey and projects with you. 
 
 - 🌍 **Location:** Pakistan, Karachi.
-- 💻 **Expertise:** MERN Stack, HTML, CSS, Bootstrap, JavaScript, Firebase, React.js, React Native, Expo, Next js, Node.js, Express.js, MongoDB.
+- 💻 **Expertise:** MERN Stack, HTML, CSS, Bootstrap, JavaScript, TypeScript, Firebase, React.js, React Native, Expo, Next js, Node.js, Express.js, MongoDB, Postgres, Graphql, MySQL.
 - 🎨 **UI Libraries:** Bootstrap, Tailwind CSS, Material UI, Ant Design.
 
 
